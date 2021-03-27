@@ -1,0 +1,12 @@
+D:\Work\Others\eCommerce\Goldenarrow\Project\BarCode\Barcode-RDLC\ClassLibraryModel\bin\Release\ClassLibraryModel.dll
+D:\Work\Others\eCommerce\Goldenarrow\Project\BarCode\Barcode-RDLC\ClassLibraryModel\bin\Release\ClassLibraryModel.pdb
+D:\Work\Others\eCommerce\Goldenarrow\Project\BarCode\Barcode-RDLC\ClassLibraryModel\obj\Release\ClassLibraryModel.csprojAssemblyReference.cache
+D:\Work\Others\eCommerce\Goldenarrow\Project\BarCode\Barcode-RDLC\ClassLibraryModel\obj\Release\ClassLibraryModel.csproj.CoreCompileInputs.cache
+D:\Work\Others\eCommerce\Goldenarrow\Project\BarCode\Barcode-RDLC\ClassLibraryModel\obj\Release\ClassLibraryModel.dll
+D:\Work\Others\eCommerce\Goldenarrow\Project\BarCode\Barcode-RDLC\ClassLibraryModel\obj\Release\ClassLibraryModel.pdb
+D:\Work\Barcode-RDLC\ClassLibraryModel\bin\Release\ClassLibraryModel.dll
+D:\Work\Barcode-RDLC\ClassLibraryModel\bin\Release\ClassLibraryModel.pdb
+D:\Work\Barcode-RDLC\ClassLibraryModel\obj\Release\ClassLibraryModel.csprojAssemblyReference.cache
+D:\Work\Barcode-RDLC\ClassLibraryModel\obj\Release\ClassLibraryModel.csproj.CoreCompileInputs.cache
+D:\Work\Barcode-RDLC\ClassLibraryModel\obj\Release\ClassLibraryModel.dll
+D:\Work\Barcode-RDLC\ClassLibraryModel\obj\Release\ClassLibraryModel.pdb

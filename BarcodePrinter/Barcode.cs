@@ -39,7 +39,7 @@ namespace BarcodePrinter
                 btnGenerate.Enabled = false;
                 btnGenerate.Text = "Generating, Please wait......";
                 List<vmProductDetails> _objData = new List<vmProductDetails>();
-                var _objProduct = GetProduc();
+                var _objProduct = GetProduct();
                 foreach (var sitem in _objProduct)
                 {
                     this.Text = sitem.detailsid.ToString();
@@ -87,7 +87,7 @@ namespace BarcodePrinter
             }
         }
 
-        public List<vmProductDetails> GetProduc()
+        public List<vmProductDetails> GetProduct()
         {
             List<vmProductDetails> objProductDetails = null;
             try
